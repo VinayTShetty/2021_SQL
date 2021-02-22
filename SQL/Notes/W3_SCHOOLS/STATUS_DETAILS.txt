@@ -1,0 +1,6 @@
+https://www.w3schools.com/sql/
+
+22/02/21   SQL HOME.
+22/02/21   SQL Introduction.
+22/01/21   SQL Syntax.
+
