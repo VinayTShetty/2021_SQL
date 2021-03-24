@@ -14,3 +14,16 @@ SELECT column1, column2, ... FROM table_name;
 2)
 
 SELECT * FROM <table_name>;
+
+3)
+
+Link:-https://www.listendata.com/2014/04/proc-sql-select-statement.html
+
+The SELECT statement must be specified in the following order: 
+1.SELECT 
+2.FROM 
+3.WHERE 
+4.GROUP BY 
+5.HAVING 
+6.ORDER BY 
+
